@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+body,td,th {
+	font-family: "微软雅黑";
+	margin-left:50px;
+	margin-right:50px;
+
+}
+
+a{ text-decoration:none} 
+
+a:link,a:visited,a:active{
+	color:#757575;
+}
+
+a:hover{
+	color:#C4C4C4;
+}
